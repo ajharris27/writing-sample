@@ -1,3 +1,3 @@
-- [Technical Writers in a docs-as-code workflow](docs/docs-as-code.md)
+- [Technical writers in a docs-as-code workflow](docs/docs-as-code.md)
 
-- [How to edit documentation in GitHub](/docs/procedure.md)
+- [How to edit documentation in a GitHub repository](/docs/procedure.md)
