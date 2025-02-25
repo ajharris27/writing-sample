@@ -1,5 +1,5 @@
 # Technical Writing Samples
 
-## Technical writers in a docs-as-code-workflow
+- [Technical writers in a docs-as-code-workflow](docs/docsascode.md)
 
-## GitHub procedure
+- [GitHub procedure](docs/procedure.md)
