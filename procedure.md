@@ -85,10 +85,10 @@ git push -u origin <your-branch-name>
 
 ### Open a pull request 
 
-1. After pushing your branch from the command line, go to your team’s repository on the GitHub website, and you should see your pull request in a banner at the top. Click Compare & pull request.
+1. After pushing your branch from the command line, go to your team’s repository on the GitHub website, and you should see your pull request in a banner at the top. Click **Compare & pull request**.
 
 
-2. Leave a clear description of the changes you made as well as a title for the pull request. Click Create pull request.
+2. Leave a clear description of the changes you made as well as a title for the pull request. Click **Create pull request**.
 
 
 
