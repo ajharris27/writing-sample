@@ -87,18 +87,18 @@ git push -u origin <your-branch-name>
 
 1. After pushing your branch from the command line, go to your team’s repository on the GitHub website, and you should see your pull request in a banner at the top. Click **Compare & pull request**.
    
-![compare and open pr](images/comparepr.PNG)
+![compare and open pr](../images/comparepr.PNG)
 
 
 2. Leave a clear description of the changes you made as well as a title for the pull request. Click **Create pull request**.
    
- ![create pull request](images/createpullrequest.PNG)
+ ![create pull request](../images/createpullrequest.PNG)
 
 
 
 3. Select the appropriate reviewers to approve your changes.
    
-![reviewers](images/reviewers.PNG)
+![reviewers](../images/reviewers.PNG)
 
 4. Once approved, you can merge your branch into the repository. Your changes will now show up in the team’s repository.
 
