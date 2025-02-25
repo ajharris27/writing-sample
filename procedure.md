@@ -89,7 +89,7 @@ git push -u origin <your-branch-name>
 
 
 2. Leave a clear description of the changes you made as well as a title for the pull request. Click **Create pull request**.
- ![create pull request](createpullrequest.png)
+ ![create pull request](images/createpullrequest.PNG)
 
 
 
