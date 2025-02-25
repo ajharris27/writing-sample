@@ -104,4 +104,4 @@ git push -u origin <your-branch-name>
 
 ## Troubleshooting
 
-More information about the process of creating a branch, committing changes, and opening  a pull request can be found in the [GitHub documentation](https://docs.github.com/en/pull-requests). 
+More information about creating a branch, committing changes, and opening  a pull request can be found in the [GitHub documentation](https://docs.github.com/en/pull-requests). 
