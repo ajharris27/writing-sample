@@ -53,13 +53,12 @@ The commit message should also follow any naming conventions required by the dev
 
 ### Push changes
 
-Before pushing your local changes to the team’s repository, make sure the changes you made do not conflict with any changes that might have been made while you were making your edits:
+1. Before pushing your local changes to the team’s repository, make sure the changes you made do not conflict with any changes that might have been made while you were making your edits:
 ```
 git pull 
 ```
 If there are any conflicts between your local branch and the remote repository, follow the [instructions to resolve merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line).
-
-If there are no conflicts, you can push your branch to the remote repository:
+2. If there are no conflicts, you can push your branch to the remote repository:
 ```
 git push -u origin <your-branch-name>
 ```
