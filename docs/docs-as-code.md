@@ -5,10 +5,10 @@ Docs-as-code is a popular approach in many software companies to create and main
 ## What is a docs-as-code workflow?
 A docs-as-code workflow generally has the following characteristics: 
 
-- Version control: Documentation is stored in a Git repository, where contributions to the documentation are tracked and managed through pull/merge requests. This makes it easy to see what changes were made to the documentation over time.
-- Plain text formatting: Documentation is written in an easy to use markup language, such as Markdown. Formatting a document is simple, and documentation is edited in an Integrated Development Environment (IDE), such as Visual Studio Code.
-- Increased collaboration: The first draft of documentation is usually started by developers and is reviewed by technical writers in GitHub. This makes it easy for multiple developers and technical writers to collaborate and give feedback on the documentation. 
-- Automated testing: Documentation goes through a review process that can include automatic tests for basic style and grammar errors to ensure consistency and maintain quality.
+- **Version control:** Documentation is stored in a Git repository, where contributions to the documentation are tracked and managed through pull/merge requests. This makes it easy to see what changes were made to the documentation over time.
+- **Plain text formatting:** Documentation is written in an easy to use markup language, such as Markdown. Formatting a document is simple, and documentation is edited in an Integrated Development Environment (IDE), such as Visual Studio Code.
+- **Increased collaboration:** The first draft of documentation is usually started by developers and is reviewed by technical writers in GitHub. This makes it easy for multiple developers and technical writers to collaborate and give feedback on the documentation. 
+- **Automated testing:** Documentation goes through a review process that can include automatic tests for basic style and grammar errors to ensure consistency and maintain quality.
 
 ## What are the challenges for technical writers?
 
@@ -38,11 +38,9 @@ Clearly defined workflows and naming conventions related to editing documentatio
 
 In a docs-as-code environment, documentation is often spread over multiple different repositories for different product teams. Maintaining consistent style and formatting between different teams’ documentation can be difficult unless there is a style guide or templates to follow. 
 
-Documentation is often started by the developers themselves, and technical writers review it once there is a draft. There needs to be enough time for technical writers to properly review and edit the documentation to make improvements if there is an urgent release deadline. If technical writers are asked to review documentation at the very last minute, it can be difficult to finish a sufficient review in time.
-
 ### Open communication
 
-It is important to ask questions, make comments, and leave suggestions when reviewing and editing files. Technical writers should feel comfortable asking questions and leaving feedback when reviewing documentation. The line of communication between technical writers, developers, and product managers should be always open to make sure there is an environment that encourages collaboration.
+Technical writers should feel comfortable asking questions, making comments, and leaving feedback when reviewing documentation. The line of communication between technical writers, developers, and product managers should be always open to make sure there is an environment that encourages collaboration.
 
 ## Conclusion
 
