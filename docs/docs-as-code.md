@@ -1,6 +1,6 @@
 # Technical writers as part of a docs-as-code workflow
 
-Docs-as-code is a popular approach in many software companies to create and maintain documentation. With this method, technical writers are more integrated into the development process with software developers, and they share the same tools and workflows. This article shows the impact the docs-as-code workflow can have on technical writers and what the keys are for technical writers to succeed in a docs-as-code workflow. 
+Docs-as-code is a popular approach in many software companies for creating and maintaining documentation. With this method, technical writers are more integrated into the development process with software developers, and they share the same tools and workflows. This article shows the impact the docs-as-code workflow can have on technical writers and what the keys are for technical writers to succeed in a docs-as-code workflow. 
 
 ## What is a docs-as-code workflow?
 A docs-as-code workflow generally has the following characteristics: 
