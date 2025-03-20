@@ -44,6 +44,7 @@ Give the branch a name that follows any naming conventions required by the devel
 code .
 ```
 Make any changes or edits to the file in VS Code, and save your work. 
+
 2. After making your changes in VS Code, you can commit the changes to your branch with these two commands in order:
 ```
 git add . 
@@ -53,7 +54,7 @@ The commit message should also follow any naming conventions required by the dev
 
 ### Push changes
 
-1. Before pushing your local changes to the team’s repository, make sure the changes you made do not conflict with any changes that might have been made while you were making your edits:
+1. Before pushing your local changes to the team’s repository, make sure the changes you made do not conflict with any changes that might have been made by others while you were making your edits:
 ```
 git pull 
 ```
