@@ -1,6 +1,7 @@
 # How to edit documentation in a GitHub repository 
 
-Many teams store their software documentation in repositories on GitHub. To make changes to the documentation, you need to edit the file and update the version stored in the repository. This page provides an overview of how to create a branch, commit your edits to the branch from the command line, and how to open a pull request on GitHub.
+Many teams store their software documentation in repositories on GitHub. To make changes to the documentation, you need to edit the file and update the version stored in the repository. 
+This page provides an overview of how to create a branch, commit your edits to the branch from the command line, and how to open a pull request on GitHub.
 
 ## Before starting
 
@@ -14,9 +15,9 @@ To use Git from the command line, you first need to set up your local environmen
 ### Create a new branch
 
 1. Open WSL and go to the folder where you cloned the repository. Then, open the repository:
-```shell
-cd <repository-name>
-```
+   ```shell
+   cd <repository-name>
+   ```
 2. Switch to the main branch:
 ```shell
 git switch main
@@ -77,5 +78,6 @@ git push -u origin <your-branch-name>
 ## Troubleshooting
 
 More information about creating a branch, committing changes, and opening  a pull request can be found in the [GitHub documentation](https://docs.github.com/en/pull-requests). 
+
 
 
