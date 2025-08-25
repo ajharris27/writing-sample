@@ -1,7 +1,5 @@
 # How to edit documentation in a GitHub repository 
 
-## Introduction
-
 Many teams store their software documentation in repositories on GitHub. To make changes to the documentation, you need to edit the file and update the version stored in the repository. This page provides a quick overview of how to create a branch and commit your edits to the branch from the command line and how to open a pull request on GitHub.
 
 ## Before starting
@@ -77,3 +75,4 @@ git push -u origin <your-branch-name>
 ## Troubleshooting
 
 More information about creating a branch, committing changes, and opening  a pull request can be found in the [GitHub documentation](https://docs.github.com/en/pull-requests). 
+
