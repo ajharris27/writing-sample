@@ -26,9 +26,9 @@ To use Git from the command line, you first need to set up your local environmen
    ```shell
    git status
    ```
-This command displays the branch you are currently on and lets you know if your local repository contains the most recent changes from the remote repository.
+   This command displays the branch you are currently on and lets you know if your local repository contains the most recent changes from the remote repository.
 
-If you do not have the most recent changes, pull the changes into your local repository:
+   If you do not have the most recent changes, pull the changes into your local repository:
    ```shell
    git pull
    ```
@@ -36,7 +36,7 @@ If you do not have the most recent changes, pull the changes into your local rep
    ```shell
    git switch -c <your-branch-name>
    ```
-Give the branch a name that follows any naming conventions required by the development team.
+   Give the branch a name that follows any naming conventions required by the development team.
 
 ### Commit changes
 
@@ -44,14 +44,14 @@ Give the branch a name that follows any naming conventions required by the devel
    ```shell
    code .
    ```
-Make any changes or edits to the file in VS Code, and save your work. 
+   Make any changes or edits to the file in VS Code, and save your work. 
 
 2. After making your changes in VS Code, you can commit the changes to your branch with these two commands in order:
    ```shell
    git add . 
    git commit -m "Enter a message describing the changes"
    ```
-The commit message should also follow any naming conventions required by the development team.
+   The commit message should also follow any naming conventions required by the development team.
 
 ### Push changes
 
@@ -59,7 +59,7 @@ The commit message should also follow any naming conventions required by the dev
    ```shell
    git pull 
    ```
-If there are any conflicts between your local branch and the remote repository, follow the [instructions to resolve merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line).
+   If there are any conflicts between your local branch and the remote repository, follow the [instructions to resolve merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line).
 
 2. If there are no conflicts, you can push your branch to the remote repository:
    ```shell
@@ -75,13 +75,14 @@ If there are any conflicts between your local branch and the remote repository, 
  ![create pull request](../images/createpullrequest.PNG)
 
 3. Select the appropriate reviewers to approve your changes.   
-![reviewers](../images/reviewers.PNG)
+   ![reviewers](../images/reviewers.PNG)
 
 4. Once approved, you can merge your branch into the repository. Your changes will now show up in the team’s repository.
 
 ## Troubleshooting
 
 More information about creating a branch, committing changes, and opening  a pull request can be found in the [GitHub documentation](https://docs.github.com/en/pull-requests). 
+
 
 
 
