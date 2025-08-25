@@ -27,7 +27,6 @@ To use Git from the command line, you first need to set up your local environmen
    git status
    ```
    This command displays the branch you are currently on and lets you know if your local repository contains the most recent changes from the remote repository.
-
    If you do not have the most recent changes, pull the changes into your local repository:
    ```shell
    git pull
@@ -82,6 +81,7 @@ To use Git from the command line, you first need to set up your local environmen
 ## Troubleshooting
 
 More information about creating a branch, committing changes, and opening  a pull request can be found in the [GitHub documentation](https://docs.github.com/en/pull-requests). 
+
 
 
 
